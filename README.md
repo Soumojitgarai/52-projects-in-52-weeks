@@ -4,7 +4,7 @@ Here i will upload 52 projects from big to small over the time period in 52 week
 2. WEEK-2 Topic:- Quiz app `Link` &rarr; https://github.com/Soumojitgarai/WEEK-2-Quiz-app
 3. WEEK-3 Topic:- QR code generator `Link` &rarr; https://github.com/Soumojitgarai/WEEK-3-QR-code-generator
 4. WEEK-4 Topic:- Pdf to Word converter `Link` &rarr; https://github.com/Soumojitgarai/WEEK-4-Pdf-to-Word-converter
-5. WEEK-5 Topic:-
+5. WEEK-5 Topic:- Calculator `Link` &rarr; https://github.com/Soumojitgarai/WEEK-5-Calculator
 6. WEEK-6 Topic:-
 7. WEEK-7 Topic:-
 8. WEEK-8 Topic:-
